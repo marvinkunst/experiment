@@ -12,3 +12,6 @@ while True:
 print("Ihre Pizza hat folgende Toppings:")
 for topping in toppings:
     print(f'-{topping.title()}')
+
+
+print('asdwadsadwadsad')
